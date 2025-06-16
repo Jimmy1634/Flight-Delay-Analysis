@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Analysis using Azure, Databricks, Spark, & Power BI
+# ✈️ Flight Delay Analysis using Azure Databricks, Spark, & Power BI
 
 This project analyzes U.S. domestic flight data to uncover trends in delays, cancellations, and airline performance using ETL processes. Data was processed using a Bronze-Silver-Gold architecture in Azure Databricks and visualized through interactive dashboards in Power BI.
 
